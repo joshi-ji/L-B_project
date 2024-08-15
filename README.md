@@ -38,7 +38,6 @@ python3 run_service.py
 ```bash
 www-data ALL=(ALL) NOPASSWD: /usr/bin/nmap, /usr/bin/sqlmap, /usr/bin/wpscan
 ```
-Note: Granting sudo privileges without a password is not recommended for production environments due to security risks.
 
 *Deployment*
 
