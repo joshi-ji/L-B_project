@@ -14,7 +14,7 @@ This project is a web-based tool designed for executing various network reconnai
 
 ## Demo
 
-Watch the video demonstration of how the website works: [![Service Executor Demo](URL-to-video-thumbnail)]([URL-to-video](https://github.com/user-attachments/assets/43e9b22f-c750-41a7-ab0a-3ce27fa4a28d))
+Watch the video demonstration of how the website works: [Video Demonstration](https://github.com/user-attachments/assets/43e9b22f-c750-41a7-ab0a-3ce27fa4a28d)
 
 ## Installation
 
