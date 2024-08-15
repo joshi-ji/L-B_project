@@ -27,9 +27,8 @@ cd repositoryname
 
 ```bash
 pip install flask
-
-*Run the Application*:
 ```
+*Run the Application*:
 ```bash
 python3 (link unavailable)
 ```
@@ -37,7 +36,7 @@ python3 (link unavailable)
 
 *Sudo Privileges Setup*: For certain tools like Nmap, SQLmap, and WPScan, sudo privileges are required. To allow these tools to run without prompting for a password, you can modify the sudoers file using sudo visudo and add the following line:
 ```bash
-yourusername ALL=(ALL) NOPASSWD: /usr/bin/nmap, /usr/bin/sqlmap, /usr/bin/wpscan
+www-data ALL=(ALL) NOPASSWD: /usr/bin/nmap, /usr/bin/sqlmap, /usr/bin/wpscan
 ```
 Note: Granting sudo privileges without a password is not recommended for production environments due to security risks.
 
