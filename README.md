@@ -15,6 +15,10 @@ This project is a web-based tool designed for executing various network reconnai
 ## Demo
 
 Watch the video demonstration of how the website works: [Video Demonstration](https://github.com/user-attachments/assets/43e9b22f-c750-41a7-ab0a-3ce27fa4a28d)
+<video width="640" height="360" controls>
+  <source src="https://github.com/user-attachments/assets/43e9b22f-c750-41a7-ab0a-3ce27fa4a28d" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Installation
 
