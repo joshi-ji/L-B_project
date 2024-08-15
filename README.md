@@ -20,19 +20,19 @@ Watch the video demonstration of how the website works: [Video Demonstration](ht
 
 1. **Clone the Repository**:
 ```bash
-git clone (link unavailable)
-cd repositoryname
+git clone https://github.com/joshi-ji/L-B_project.git
+cd L-B_project
 ```
-*Install Dependencies*: Ensure you have Python 3.x installed. Install the necessary Python packages:
+*Install Dependencies*: Install the necessary Python packages:
 
 ```bash
 pip install flask
 ```
 *Run the Application*:
 ```bash
-python3 (link unavailable)
+python3 run_service.py
 ```
-*Access the Web Application*: Open your web browser and go to (link unavailable).
+*Access the Web Application*: Open your web browser and go to  http://127.0.0.1:5000
 
 *Sudo Privileges Setup*: For certain tools like Nmap, SQLmap, and WPScan, sudo privileges are required. To allow these tools to run without prompting for a password, you can modify the sudoers file using sudo visudo and add the following line:
 ```bash
@@ -48,7 +48,6 @@ This application can be deployed on various platforms, such as:
 - DigitalOcean
 - AWS
 - Google Cloud
-- (link unavailable)
 
 *Contributing*
 
